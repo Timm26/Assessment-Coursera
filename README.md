@@ -1,2 +1,2 @@
 # Assessment-Coursera
-Assessment for Tools for Data Science
+Assessments for Data Science
